@@ -1,4 +1,4 @@
 
-public class VendedorTreinamento {
+public class VendedorTreinamento extends Vendedor{
 
 }

@@ -1,4 +1,4 @@
 
-public class VendedorOficial {
+public class VendedorOficial extends Vendedor{
 
 }

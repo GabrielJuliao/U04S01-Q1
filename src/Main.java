@@ -3,7 +3,10 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("Teste...");
+		VendedorTreinamento vt = new VendedorTreinamento();
+		vt.setNome("Oriley");
+		vt.setCpf("123456");
+		vt.realizarAtividade();
 	}
 
 }
